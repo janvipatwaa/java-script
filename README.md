@@ -1,3 +1,4 @@
 # java-script
 This is my first Git Repository
-author- janvi patwa
+<br>
+Author- Janvi Patwa
